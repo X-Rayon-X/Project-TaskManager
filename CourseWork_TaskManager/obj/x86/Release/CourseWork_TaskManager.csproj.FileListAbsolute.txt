@@ -1,0 +1,10 @@
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\bin\x86\Release\CourseWork_TaskManager.exe.config
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\bin\x86\Release\CourseWork_TaskManager.exe
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\bin\x86\Release\CourseWork_TaskManager.pdb
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\obj\x86\Release\CourseWork_TaskManager.csproj.AssemblyReference.cache
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\obj\x86\Release\CourseWork_TaskManager.Form1.resources
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\obj\x86\Release\CourseWork_TaskManager.Properties.Resources.resources
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\obj\x86\Release\CourseWork_TaskManager.csproj.GenerateResource.cache
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\obj\x86\Release\CourseWork_TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\obj\x86\Release\CourseWork_TaskManager.exe
+C:\Users\bakay\source\repos\CourseWork_TaskManager\CourseWork_TaskManager\obj\x86\Release\CourseWork_TaskManager.pdb
